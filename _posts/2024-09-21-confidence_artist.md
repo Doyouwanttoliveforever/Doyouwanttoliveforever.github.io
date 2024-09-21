@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "CON ARTIST"
 ---
 2024-09-20 작성
