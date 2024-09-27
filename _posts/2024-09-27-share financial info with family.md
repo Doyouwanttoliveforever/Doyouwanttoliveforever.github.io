@@ -1,7 +1,6 @@
-
 ---
 layout: single
-title:  "share financial infomation with your family"
+title: ""share financial infomation with your family"
 ---
 <p>2024-09-27 작성</p>
 <p> 사람을 만나다보면 좋은 직장에서 많은 월급을 받는데도 경제적으로 여유롭지 못한 사람을 많이 봤다. </p> 
