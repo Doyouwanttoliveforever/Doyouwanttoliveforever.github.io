@@ -19,3 +19,4 @@ author_profile: false
 <p>본인들의 행동이 백화점을 경영하고 고급차를 팔고 카드회사, 은행, 항공사을 운영하는 상류층에게 피빨리고 있다는건 인식할까? 그런 회사에 돈을 빌려주고 상류층과 이익을 공유할 생각을 하진 않고 왜 피를 빨리는걸까? 그 이유는 <mark>허세</mark>다.</p>
 <img src="share financial infomation with your family/image share financial infomation with your family.webp" alt ="">
 <p>끝</p>
+<img data-action="zoom" src='{{ "/assets/images/img.png" | relative_url }}' alt='absolute'>
