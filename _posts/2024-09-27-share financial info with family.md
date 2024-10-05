@@ -17,5 +17,5 @@ author_profile: false
 <p> 자신이 별볼일 없는 인간이라는걸 직시하고 중산층이 되도록 온가족이 외식하지않고 백화점 근처도 가지말고 영화도 보지않고 출퇴근시간에 대리운전해서 거지처럼 돈을 벌어도 중산층이 될 가능성이 희박한데 이상하게도 그런분들의 가족은 씀씀이가 상류층이다. </p>
 <p> 나도 내 가족을 설득 못시키는 마당에 내 알바는 아니지만 세상에는 삶을 이상하게 사는 사람이 많다. 하긴 그런 사람들이 밑바닥에서 험한일 대신해줘야 중산층이 존재하는거긴하지만 내 머리론 이해가 안된다.</p>
 <p>본인들의 행동이 백화점을 경영하고 고급차를 팔고 카드회사, 은행, 항공사을 운영하는 상류층에게 피빨리고 있다는건 인식할까? 그런 회사에 돈을 빌려주고 상류층과 이익을 공유할 생각을 하진 않고 왜 피를 빨리는걸까? 그 이유는 <mark>허세</mark>다.</p>
-<img src="{{https://doyouwanttoliveforever.github.io}}{{}}/_posts/share financial infomation with your family/image share financial infomation with your family.webp">
+<img src="{{https://doyouwanttoliveforever.github.io}}{{}}/assets/images/image share financial infomation with your family.webp">
 <p>끝</p>
