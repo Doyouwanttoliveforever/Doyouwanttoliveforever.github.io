@@ -20,4 +20,4 @@ author_profile: false
 <img src="share financial infomation with your family/image share financial infomation with your family.webp" alt ="">
 <p>끝</p>
 <img data-action="zoom" src='{{ "/img.png" | relative_url }}' alt='relative'>
-<img src="/assets/images/img.png"> 
+<img src="/assets/images/image share financial infomation with your family.webp"> 
