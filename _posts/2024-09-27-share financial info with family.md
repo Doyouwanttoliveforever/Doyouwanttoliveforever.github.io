@@ -18,3 +18,4 @@ author_profile: false
 <p> 나도 내 가족을 설득 못시키는 마당에 내 알바는 아니지만 세상에는 삶을 이상하게 사는 사람이 많다. 하긴 그런 사람들이 밑바닥에서 험한일 대신해줘야 중산층이 존재하는거긴하지만 내 머리론 이해가 안된다.</p>
 <p>본인들의 행동이 백화점을 경영하고 고급차를 팔고 카드회사, 은행, 항공사을 운영하는 상류층에게 피빨리고 있다는건 인식할까? 그런 회사에 돈을 빌려주고 상류층과 이익을 공유할 생각을 하진 않고 왜 피를 빨리는걸까? 그 이유는 <mark>허세</mark>다.</p>
 <img src="{{https://doyouwanttoliveforever.github.io}}/_posts/share financial infomation with your family/image share financial infomation with your family.webp">
+<p>끝</p>
