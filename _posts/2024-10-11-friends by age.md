@@ -8,23 +8,23 @@ use_math: true
 ---
 This formula $f(x) = x^2$ is an example.
 
+\(\require{color}\)
+\(\usepackage[hangul]{kotex}\)
+\(\usepackage{hyperref}\)
+\(\usepackage[skins]{tcolorbox}\)
+\(\usepackage{verbatim}\)
+
+\(\usepackage{pgfplots}\)
+\(\usepackage{mathtools,amssymb}\)
+\(\usepackage{tikz}\)
+\(\usepackage{xcolor}\)
+
+\(\pgfplotsset{compat=1.7}\)
+\(\pgfmathdeclarefunction{gauss}{2}{\pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%}\)
+
+
 $$
-\documentclass{article}
-\usepackage[hangul]{kotex}
-\usepackage{hyperref}
-\usepackage[skins]{tcolorbox}
-\usepackage{verbatim}
-
-\usepackage{pgfplots}
-\usepackage{mathtools,amssymb}
-\usepackage{tikz}
-\usepackage{xcolor}
-\pgfplotsset{compat=1.7}
-\begin{document}
-\pgfmathdeclarefunction{gauss}{2}{\pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%
-}
 \begin{tikzpicture}
-
 \begin{axis}[no markers, domain=0:10, samples=100,
 axis lines*=left, xlabel=나이, ylabel=지인 숫자,
 height=6cm, width=10cm,
@@ -38,5 +38,4 @@ grid = major]
 \addplot [fill=blue!20, draw=none, domain=1:2] {gauss(0,1)} \closedcycle;
 \end{axis}
 \end{tikzpicture}
-\end{document}
 $$
