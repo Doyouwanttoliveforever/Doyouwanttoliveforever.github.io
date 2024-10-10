@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "CON ARTIST"
+cagegories: 일상
+tag: [조급함, 사기꾼]
+author_profile: false
 ---
 <p>2024-09-20 작성</p>
 
