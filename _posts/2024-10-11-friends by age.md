@@ -6,6 +6,7 @@ tag: [친구, 나이]
 author_profile: false
 use_math: true
 ---
+$$
 \documentclass{article}
 \usepackage[hangul]{kotex}
 \usepackage{hyperref}
@@ -36,4 +37,4 @@ grid = major]
 \end{axis}
 \end{tikzpicture}
 \end{document}
-
+$$
