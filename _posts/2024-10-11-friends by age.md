@@ -7,21 +7,10 @@ author_profile: false
 use_math: true
 ---
 This formula $f(x) = x^2$ is an example.
-
-\(\require{color}\)
-\(\usepackage[hangul]{kotex}\)
-\(\usepackage{hyperref}\)
-\(\usepackage[skins]{tcolorbox}\)
-\(\usepackage{verbatim}\)
-
-\(\usepackage{pgfplots}\)
-\(\usepackage{mathtools,amssymb}\)
-\(\usepackage{tikz}\)
-\(\usepackage{xcolor}\)
-
+$$
 \(\pgfplotsset{compat=1.7}\)
 \(\pgfmathdeclarefunction{gauss}{2}{\pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%}\)
-
+$$
 
 $$
 \begin{tikzpicture}
