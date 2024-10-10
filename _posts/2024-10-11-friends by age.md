@@ -6,6 +6,8 @@ tag: [친구, 나이]
 author_profile: false
 use_math: true
 ---
+This formula $f(x) = x^2$ is an example.
+
 $$
 \documentclass{article}
 \usepackage[hangul]{kotex}
