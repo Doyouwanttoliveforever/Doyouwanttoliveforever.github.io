@@ -35,15 +35,13 @@ author_profile: false
 <p>여동생이 아니라 작가 본인이 나오는걸 보면 치환도 틀린 말은 아닌것 같긴한데 Permutation의 뜻을 생각해보면 그래도 '순열'이 맞는 말이라 본다. 극도의 단순함을 연속시켜 흥미로운 작품을 만들어내는걸 보면 굉장히 뛰어난 작가라고 느꼈다. 그의 인생이 어이없는 불행한 죽음으로 끝나는것도 참 아쉽다. 살았으면 좋은 작품을 많이 만들었을거다.</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<p>
-    <strong><u><주부의 하루>(Another Day of a Housewife, 1977) : 이데미츠 마코</u></strong>
-</p>
+<p><strong><u><주부의 하루>(Another Day of a Housewife, 1977) : 이데미츠 마코</u></strong></p>
 
-<figure>
+<figure class = "half">
     <img src="/assets/images/2024-10-12-Permutations Theresa Hak Kyung Cha/anotherdayofahousewife_08.webp" align="center" width="49%">
     <img src="/assets/images/2024-10-12-Permutations Theresa Hak Kyung Cha/anotherdayofahousewife_10.webp" align="center" width="49%">
   <figcaption>
-    출처 :<A href="https://makoidemitsu.com/work/another-day-of-a-housewife/?lang=en">Mako Idemitsu - Media Artist</A>
+    사진출처 :<A href="https://makoidemitsu.com/work/another-day-of-a-housewife/?lang=en">Mako Idemitsu - Media Artist</A>
   </figcaption>
 </figure>
 이 작품도 영상 작품이었는데 1970년대 일본 주부의 일상생활을 그린 내용이었다. 특이하게도 항상 TV에서 그 주부를 지켜보는 눈이 나온다. 이걸 보면서 입센의 '인형의 집'이 생각났다. 난 인형이 아니에요라고 외치는 노라같은 여성도 있지만, 동물원 동물처럼 안주하면서 인형으로 지내는 여성의 모습을 그린 수작이었다.
