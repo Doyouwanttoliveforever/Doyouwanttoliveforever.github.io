@@ -48,8 +48,14 @@ author_profile: false
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<p><strong><u>나는 소리도 바꾸어 썻고, 몸도 바꾸어 썼다(2024) : 정은영, <A href="https://namu.wiki/w/KIRARA">KIRARA</A></u></strong></p>
-앞서 다른 전시물은 죄다 피해의식에 쩔어 있는 작품이 많았지만 이 작품은 굉장히 희망적이다. KIRARA는 내 몸은 그리 매력적이진 않지만 음악으로 그걸 상쇄하고 즐긴다는 그런 투로 시작한다. 아쉽게도 이 영상작품은 전시 맨 마지막에 위치하고 있었는데 미술관 마감시간아 다 되어 조금밖에 보지 못한게 아쉬웠다. 빈곤포르노만 잔뜩 보다 마지막에 '나는 나다'라는 긍정적인 메시지를 전달한다는 점에서 의미있는 전시배치였고 내용이나 음악도 매우 좋았다.
+<p><strong><u>나는 소리도 바꾸어 썻고, 몸도 바꾸어 썼다(2024) : 정은영, KIRARA</u></strong></p>
+앞서 다른 전시물은 죄다 피해의식에 쩔어 있는 작품이 많았지만 이 작품은 굉장히 희망적이다. <A href="https://namu.wiki/w/KIRARA">KIRARA</A>는 내 몸은 그리 매력적이진 않지만 음악으로 그걸 상쇄하고 즐긴다는 그런 투로 시작한다. 아쉽게도 이 영상작품은 전시 맨 마지막에 위치하고 있었는데 미술관 마감시간아 다 되어 조금밖에 보지 못한게 아쉬웠다. 빈곤포르노만 잔뜩 보다 마지막에 '나는 나다'라는 긍정적인 메시지를 전달한다는 점에서 의미있는 전시배치였고 내용이나 음악도 매우 좋았다.
 
-<p></p>
-<p></p>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<p><u>이상한거 하나</u></p>
+전시 중간쯤 가다보면 벽에 이런 문구가 걸려있다.
+<img src="/assets/images/2024-10-12-Permutations Theresa Hak Kyung Cha/Look I'm a fourtain of filth raving mad with love.jpg" align="center">
+<p>봐라, 나는 사랑에 미쳐 날뛰는 오물의 분수</p>
+<p>Look, I'm a fourtain of filth raving mad with love</p>
+<p>이게 뭔 뜻인가 싶어 황당하기도 한데, 이 문구는 김언희 시인의 '오지게 오지게'라는 시에서 따온것으로 보인다. (<A href="https://waxwingmag.org/items/issue30/49_Hee-Mightily-Mightily.php#top">출처</A>)
+한글로 된 시 원문보다 영어로 번역된게 더 이해가 잘 될 정도로 번역을 잘한 정도가 아니라 새로이 창작한 수순이다. 오히려 영문을 한글로 번역하면 '난 사랑에 완전히 미쳐버린 난 오물만 뿜어내는 존재다.' 이런 뜻이 된다. 사실 이게 맞는거지 뜬금없게 사람이 왜 분수가 되어버리나? fourtain이 분수라는 뜻도 있지만 샘이나 원천이라는 뜻도 있다는걸 생각해보면 영문번역이 더 자연스럽고 한글이 이상하게 느껴진다. 아무튼 사랑으로 망가지는 자신을 나타낸 문구인듯 한데 피해자 코스프레도 어느정도껏 해야지 이정도면 거의 망상수준이다.</p>
