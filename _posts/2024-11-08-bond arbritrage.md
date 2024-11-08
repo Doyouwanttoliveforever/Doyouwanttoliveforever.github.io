@@ -13,7 +13,7 @@ author_profile: false
 <img src="/assets/images/2024-11-08-bond arbritrage/discounted fee.jpg" align="center">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p> 먼저 <A href="https://ko.wikipedia.org/wiki/%EC%B0%A8%ED%95%99%EA%B2%BD">KRX 정보데이터시스템</A>에 접속하여 고시가격을 파악한다.</p>
+<p> 먼저 <A href="http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0201040402">KRX 정보데이터시스템</A>에 접속하여 고시가격을 파악한다.</p>
 <p>이 다음 영업일 오후3시 30분에 거래될 고시가격은 전 영업일 오후 5시 40분 이후에 확인 가능하다.</p>
 <img src="/assets/images/2024-11-08-bond arbritrage/notified price.jpg" align="center">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
