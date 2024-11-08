@@ -20,7 +20,7 @@ author_profile: false
 <img src="/assets/images/2024-11-08-bond arbritrage/notified price.jpg" align="center">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-<p>소액채권의 하루 주문한도는 매도수량 50000천원(오천만원) 매수수량 50000천원(오천만원) 이다. 어떤 경우에도 이 수량을 넘겨선 안된다.</p>
+<p>소액채권의 하루 주문한도는 매도수량 50000(오천만원) 매수수량 50000(오천만원) 이다. 어떤 경우에도 이 수량을 넘겨선 안된다.</p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p>키움증권 계좌에 4600만원정도 입금한후 거래를 주문을 내면 된다.</p>
