@@ -9,6 +9,8 @@ author_profile: false
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p> <A href="https://blog.naver.com/kiwoomhero/223525023954">키움증권 장내 채권 수수료 할인</A>에 보면 2024-12-30까지 한시적으로 유관기관 수수료만 받는다.</p>
+<p>(12/31(화) 휴장이니 12/27(금) 마지막 매수, 12/30(월) 마지막 매도하면 될듯.)</p>
+
 <p> 이점을 이용하여 소액채권 차익거래를 할수 있다.</p>
 <img src="/assets/images/2024-11-08-bond arbritrage/discounted fee.jpg" align="center">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -31,19 +33,21 @@ author_profile: false
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p>키움증권(영웅문) HTS 접속후 증권계좌로 입금을 한후,</p>
-<p>(소액) 장내채권 주문 [ 화면번호 1800 ]] 선택,</p>
+<p>(소액) 장내채권 주문 [ 화면번호 1800 ] 선택,</p>
 <img src="/assets/images/2024-11-08-bond arbritrage/bid ask screen.jpg" align="center">
 <p>1. 돋보기 모양을 눌러서 채권종목을 선택한다. [국민주택1종 24-11] 만일 오늘이 25년 05월 03일이라면 [국민주택1종 25-05]가 된다.</p>
 <p></p>
 <p>2. 참여/미참여 선택은 주문시각이 3시 10분 이전이라면 '미참여'이고, 3시 10분 이후라면 '참여'를 선택한다.</p>
 <p></p>
 <p>3. 수량과 단가를 입력한다.</p>
-<p>수량은 50000  (천원단위라서 5뒤에 '영'이 다섯개이다.)</p>
-<p>단가는 KRX사이트에서 확인한 단가를 입력하면 된다. (2024-11-08 고시가격은 9077 이다.)</p>
+<p>수량은 50000  (천원단위라서 5뒤에 '영'이 네(4)개이다.)</p>
+<p>단가는 KRX사이트에서 확인한 고시가격을 입력하면 된다. (2024-11-08 고시가격은 9077 이다.)</p>
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <p>3시 30분 장 마감후 5분이 지난 3시 35분에 미체결된 주문을 취소하고, 남은 예수금을 출금한다.</p>
 <p>(첫거래라면 거래내역을 확인하여 수수료가 1만원당 0.5원미만인지 확인할것)</p>
 <p></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-<p>다음 날 시초가에 매도하기보다 30분정도 기다렸다가 매도/매수호가가 1원미만일때 매도해야 제대로된 매도가격으로 거래할수 있다. </p>
+<p>다음 날 시초가에 매도하기보다 매도/매수호가가 1원미만일때 매도해야 제대로된 매도가격으로 거래할수 있다. </p>
+<p>오전 9시~오전 9시 30분, 오전 11시 20분부터~ 오후 1시 10분까지는 거래가 드물어서 그 시간대를 피해서 매도하는게 좋다.(트레이더가 점심먹는 시간인듯)</p>
+
