@@ -100,4 +100,5 @@ author_profile: false
         }
     }
   });
+  Chart.register(customTextPlugin);
 </script>
