@@ -2,9 +2,12 @@
 layout: single
 title: "Income and Tax percentiles in 2022"
 cagegories: 일상
-tag: [소득, 세금, 한국]
+tag: [소득, 세금, 한국, 차트]
 author_profile: false
 ---
+<p>2025-01-10 작성성</p>
+<p><b>HTML을 이용해 차트그리는 방법을 연습한 결과물</b></p>
+
 <div>
   <canvas id="myChart"></canvas>
 </div>
@@ -72,5 +75,16 @@ author_profile: false
         }
     }
   });
-  Chart.register(customTextPlugin);
 </script>
+
+<ol type ="1">
+    <li>참고자료</li>
+        <ul type ="SQUARE">
+            <li><A href="https://www.data.go.kr/data/15082063/fileData.do">국세청_근로소득 백분위(천분위) 자료</A></li>
+            <li><A href="https://www.alio.go.kr/mobile/statistics/employeeAvg.do?">공공기관 직원 평균보수</A></li>
+        </ul>
+    <li>그래프 작성 도구</li>
+        <ul type ="SQUARE">
+            <li><A href="https://www.chartjs.org/">Chart.js</A></li>
+        </ul>
+</ol>
