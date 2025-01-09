@@ -42,10 +42,11 @@ author_profile: false
                 position: 'left'
             },
             'y2': {
-                beginAtZero: true, // 보조 Y축 0부터 시작
+                beginAtZero: true,
                 type: 'linear',
-                position: 'right' // 보조 Y축 위치 (기본값은 왼쪽, 오른쪽에 배치하려면 'right'로 설정)
+                position: 'right'
             }
         }
+    }
   });
 </script>
