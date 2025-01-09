@@ -26,6 +26,7 @@ author_profile: false
         borderWidth: 1,
         yAxisID: 'y1'
         }, {
+        label: '공공기관 직원 평균보수',
         data: [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6875.9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
         borderColor: 'rgb(0, 255, 0)',
         pointRadius: 5,
@@ -44,12 +45,14 @@ author_profile: false
         scales: {
             'y1': {
                 beginAtZero: true,
+                display: true,
                 text: '단위:만원',
                 type: 'linear',
                 position: 'left'
             },
             'y2': {
                 beginAtZero: true,
+                display: true,
                 text: '%',
                 type: 'linear',
                 position: 'right',
