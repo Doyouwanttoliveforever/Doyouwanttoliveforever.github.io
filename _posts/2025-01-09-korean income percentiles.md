@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Income and Tax percentiles in 2022"
+title: "Income and Tax percentiles in 202"
 cagegories: 일상
 tag: [소득, 세금, 한국, 차트]
 author_profile: false
 ---
-<p>2025-01-10 작성성</p>
+<p>2025-01-10 작성</p>
 <p><b>HTML을 이용해 차트그리는 방법을 연습한 결과물</b></p>
 
 <div>
