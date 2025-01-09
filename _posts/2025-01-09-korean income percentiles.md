@@ -46,25 +46,26 @@ author_profile: false
             'y1': {
                 beginAtZero: true,
                 display: true,
-                text: '단위:만원',
+                title{
+			    	display:true,
+				    text:'(단위:만원)'
+			    },
                 type: 'linear',
-                position: 'left',
-                font: {
-                    size: 16,
-                    weight: 'bold',
-                },
-                padding: { top: 10, left: 10, right: 10 }
+                position: 'left'
             },
             'y2': {
                 beginAtZero: true,
                 display: true,
-                text: '%',
+                title{
+			    	display:true,
+				    text:'%'
+			    },
                 type: 'linear',
                 position: 'right',
                 ticks: {
                     callback: function(value) {
                         return (value * 100) + '%';
-                }
+                    }
                 }
             }
         }
