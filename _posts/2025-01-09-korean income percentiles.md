@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Income and Tax percentiles in 202"
+title: "Income and Tax percentiles in 2022"
 cagegories: 일상
 tag: [소득, 세금, 한국]
 author_profile: false
@@ -65,6 +65,35 @@ author_profile: false
                 ticks: {
                     callback: function(value) {
                         return (value * 100) + '%';
+                    }
+                }
+            }
+        },
+        plugins: {
+            tooltip: {
+                enabled: true,
+            },
+            // 사용자 정의 플러그인 (특정 점에 텍스트 추가)
+            customTextPlugin: {
+                id: 'customTextPlugin',
+                afterDatasetsDraw(chart) {
+                    const ctx = chart.ctx;
+                    const dataset = chart.data.datasets[1]; // 첫 번째 데이터셋 선택
+                    const points = chart.getDatasetMeta(1).data; // 첫 번째 데이터셋의 점들 가져오기
+
+                    points.forEach((point, index) => {
+                        const label = "Point " + (index + 1); // 각 점에 대한 설명 텍스트 설정
+                        
+                        // 특정 점에만 텍스트 추가 (예: 'March'에 해당하는 점에만)
+                        if (chart.data.labels[index] === '17%내') {
+                            ctx.save();
+                            ctx.fillStyle = 'black'; // 텍스트 색상 설정
+                            ctx.font = 'bold 14px Arial'; // 텍스트 스타일 설정
+                            const x = point.x; // 점의 x 좌표
+                            const y = point.y; // 점의 y 좌표
+                            ctx.fillText(label, x + 10, y - 10); // 텍스트 그리기 (점 위에)
+                            ctx.restore();
+                        }
                     }
                 }
             }
