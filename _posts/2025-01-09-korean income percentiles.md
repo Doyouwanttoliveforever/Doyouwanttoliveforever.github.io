@@ -15,7 +15,7 @@ author_profile: false
   const ctx = document.getElementById('myChart');
 
   new Chart(ctx, {
-    type: 'bar',
+    type: 'chart',
     data: {
       labels: ['100%내', '99%내'],
       datasets: [{
