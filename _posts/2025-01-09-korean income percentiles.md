@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Income and Tax percentiles in 2022"
+title: "Income and Tax percentiles in 202"
 cagegories: 일상
 tag: [소득, 세금, 한국]
 author_profile: false
@@ -10,6 +10,7 @@ author_profile: false
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
 
 <script>
   const ctx = document.getElementById('myChart');
