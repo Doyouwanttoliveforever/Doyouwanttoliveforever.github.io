@@ -43,7 +43,7 @@ author_profile: false
                         size: 16, // 글꼴 크기
                         weight: 'bold', // 글꼴 두께
                     },  
-                    padding: { top: 10, left: 10, right: 10 }, // 레이블과 축 간격 설정
+                    position: 'left'
                 }
             },
             y2: {
