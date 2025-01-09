@@ -48,12 +48,12 @@ author_profile: false
                 display: true,
                 text: '단위:만원',
                 type: 'linear',
-                position: 'left'
+                position: 'left',
                 font: {
                     size: 16,
                     weight: 'bold',
                 },
-                padding: { top: 10, left: 10, right: 10 }                
+                padding: { top: 10, left: 10, right: 10 }
             },
             'y2': {
                 beginAtZero: true,
