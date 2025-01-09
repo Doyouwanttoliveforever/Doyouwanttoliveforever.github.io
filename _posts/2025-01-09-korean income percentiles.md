@@ -33,28 +33,31 @@ author_profile: false
       }]
     },
     options: {
-      scales: {
-        y1: {
-          beginAtZero: true
-          title: {
+        scales: {
+            y: {
+                beginAtZero: true
+                title: {
                     display: true, // Y축 제목을 표시
                     text: '인당 소득(단위:만원)', // Y축 레이블 텍스트
                     font: {
                         size: 16, // 글꼴 크기
                         weight: 'bold', // 글꼴 두께
-                    },
+                    },  
                     padding: { top: 10, left: 10, right: 10 }, // 레이블과 축 간격 설정
                 }
-        },
-        y2: {
-            beginAtZero: true, // 보조 Y축 0부터 시작
-            title: {
-                display: true, // 보조 Y축 제목 표시
-                text: '조세 부담율' // 보조 Y축 제목 텍스트
             },
-            position: 'right', // 보조 Y축 위치 (기본값은 왼쪽, 오른쪽에 배치하려면 'right'로 설정)
+            y2: {
+                beginAtZero: true, // 보조 Y축 0부터 시작
+                title: {
+                    display: true, // 보조 Y축 제목 표시
+                    text: '조세 부담율' // 보조 Y축 제목 텍스트
+                    font: {
+                        size: 16, // 글꼴 크기
+                        weight: 'bold', // 글꼴 두께
+                    },
+                    position: 'right' // 보조 Y축 위치 (기본값은 왼쪽, 오른쪽에 배치하려면 'right'로 설정)
+                }
+            }
         }
-      }
-    }
   });
 </script>
