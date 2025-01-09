@@ -45,7 +45,7 @@ author_profile: false
         scales: {
             'y1': {
                 beginAtZero: true,
-                display: true,
+                // display: true,
                 title{
 			    	display:true,
 				    text:'(단위:만원)'
@@ -55,10 +55,10 @@ author_profile: false
             },
             'y2': {
                 beginAtZero: true,
-                display: true,
+                // display: true,
                 title{
 			    	display:true,
-				    text:'%'
+				    text:'(%)'
 			    },
                 type: 'linear',
                 position: 'right',
