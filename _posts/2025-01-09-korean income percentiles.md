@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Income and Tax percentiles in 202"
+title: "Income and Tax percentiles in 2022"
 cagegories: 일상
 tag: [소득, 세금, 한국]
 author_profile: false
@@ -23,6 +23,12 @@ author_profile: false
         data: [21, 87, 155, 216, 283, 356, 420, 493, 569, 633, 710, 778, 855, 935, 1011, 1095, 1175, 1232, 1315, 1399, 1470, 1549, 1629, 1709, 1785, 1854, 1930, 2006, 2078, 2149, 2210, 2271, 2300, 2330, 2376, 2402, 2438, 2487, 2530, 2578, 2628, 2676, 2728, 2779, 2834, 2887, 2942, 2995, 3045, 3105, 3165, 3225, 3285, 3349, 3413, 3479, 3546, 3608, 3675, 3751, 3830, 3909, 3992, 4076, 4165, 4251, 4348, 4448, 4550, 4657, 4766, 4875, 4996, 5121, 5254, 5392, 5536, 5684, 5840, 5998, 6169, 6360, 6562, 6773, 6995, 7227, 7477, 7742, 8024, 8327, 8659, 9035, 9462, 9960, 10600, 11407, 12408, 13889, 16532, 19062],
         borderColor: 'rgb(0, 0, 255)',
         pointRadius: 0,
+        borderWidth: 1,
+        yAxisID: 'y1'
+        }, {
+        data: [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6875.9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        borderColor: 'rgb(0, 255, 0)',
+        pointRadius: 5,
         borderWidth: 1,
         yAxisID: 'y1'
         }, {
