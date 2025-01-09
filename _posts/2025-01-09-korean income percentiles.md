@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Income and Tax percentiles in 2022"
+title: "Income and Tax percentiles in 202"
 cagegories: 일상
 tag: [소득, 세금, 한국]
 author_profile: false
@@ -49,6 +49,11 @@ author_profile: false
                 text: '단위:만원',
                 type: 'linear',
                 position: 'left'
+                font: {
+                    size: 16,
+                    weight: 'bold',
+                },
+                padding: { top: 10, left: 10, right: 10 }                
             },
             'y2': {
                 beginAtZero: true,
