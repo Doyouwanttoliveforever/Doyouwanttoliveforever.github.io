@@ -2,7 +2,7 @@
 layout: single
 title: "Preliminary Return on  Capital Gains Tax"
 cagegories: 일상
-tag: [소득, 세금, 하눅눅]
+tag: [소득, 세금, 한국국]
 author_profile: false
 ---
 <div>
