@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Income and Tax percentiles in 2022"
+title: "Income and Tax percentiles in 202"
 cagegories: 일상
 tag: [소득, 세금, 한국]
 author_profile: false
@@ -45,8 +45,8 @@ author_profile: false
                         size: 16, // 글꼴 크기
                         weight: 'bold', // 글꼴 두께
                     },  
-                    position: 'left'
-                }
+                    position: 'left',
+                },
             },
             y2: {
                 beginAtZero: true, // 보조 Y축 0부터 시작
@@ -57,9 +57,9 @@ author_profile: false
                         size: 16, // 글꼴 크기
                         weight: 'bold', // 글꼴 두께
                     },
-                    position: 'right' // 보조 Y축 위치 (기본값은 왼쪽, 오른쪽에 배치하려면 'right'로 설정)
-                }
-            }
+                    position: 'right', // 보조 Y축 위치 (기본값은 왼쪽, 오른쪽에 배치하려면 'right'로 설정)
+                },
+            },
         }
   });
 </script>
