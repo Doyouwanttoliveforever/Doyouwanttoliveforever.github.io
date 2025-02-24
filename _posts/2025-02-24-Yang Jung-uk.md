@@ -12,9 +12,9 @@ author_profile: false
 <br/>
 <p>양정욱 작가의 작품중 하나인데 이름을 적어놓지 않아 작품명은 모르겠지만 대충 이런 형태이다.</p>
 <figure>
-<video width="640" height="360" countrols mute loop>
+<video width="640" height="360" countrols>
 <source src="/assets\videos\2025-02-24-Yang Jung-uk/양정욱_작품.mp4" type="video/mp4">
-
-<figcaption>양정욱 작품 동영상상</figcaption>
+<figcaption>양정욱 작품 동영상</figcaption>
 </video> 
 </figure>
+
