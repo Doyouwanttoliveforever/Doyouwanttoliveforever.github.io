@@ -14,7 +14,6 @@ author_profile: false
 <figure>
     <video width="640" height="360" controls>
         <source src="/assets\videos\2025-02-24-Yang Jung-uk/양정욱_작품.mp4" type="video/mp4">
-        <figcaption>양정욱 작품 동영상</figcaption>
     </video> 
 </figure>
 <br/>
