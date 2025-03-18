@@ -9,7 +9,7 @@ author_profile: false
   <link rel="stylesheet" href="\assets\css\2025-01-09-korean income percentiles\2025-01-09-korean income percentiles.css">
 </head>
 <p>2025-01-10 작성</p>
-<p><b>2023년 소득자료 (HTML을 이용해 차트그리는 방법을 연습한 결과물)</b></p>
+<p><b>HTML을 이용해 차트그리는 방법을 연습한 결과물</b></p>
 
 <div>
   <canvas id="myChart"></canvas>
