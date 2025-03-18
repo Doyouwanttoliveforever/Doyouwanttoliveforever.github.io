@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Who is Trump, based on the press conference with Zelensky on February 28, 2025"
+title: "korea treasury bond"
 cagegories: 일상
 tag: [한국, 국채, 국채선물물]
 author_profile: false
@@ -11,7 +11,7 @@ author_profile: false
 <p>발행되는 국채 종목명을 보면 그 국채에 대한 내용을 알수 있는데,<sub><a href="#footnote1">1</a></sub><br/> 
 예를 들어 <mark>국고채권 <span style="color:red;">02875</span>-<span style="color:blue;">2712</span>(24-12)</mark>는<br/>
 연이자율이 <span style="color:red;">2.875%</span>이며,<br/>
-만기는 <span style="color:green;">2027년 12월 10일</span>이며,<br/>
+만기는 <span style="color:blue;">2027년 12월 10일</span>이며,<br/>
 2024년도 12번째 발행되는 종목이라는 말이다.</p>
 <footer>
     <p id="footnote1">
