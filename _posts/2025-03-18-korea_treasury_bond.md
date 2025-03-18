@@ -14,10 +14,15 @@ author_profile: false
 만기는 <span style="color:blue;">2027년 12월 10일</span>이며,<br/>
 2024년도 12번째 발행되는 종목이라는 말이다.</p>
 <footer>
-    <p id="footnote1">
+    <p id="footnote1" style="font-size:5px">
         각주 1: <a href="https://www.law.go.kr/행정규칙/국고채권의발행및국고채전문딜러운영에관한규정/(2025-7,20250227)/제3조">국고채권의 발행 및 국고채전문딜러 운영에 관한 규정 제3조 9항 참조</a>
     </p>
 </footer>
 <hr color="black">
 
+<p><b><u>국채선물</u></b></p>
+<p><a href="https://open.krx.co.kr/">한국거래소</a>를 통해 국채선물 3년물, 5년물, 10년물, 20년물을 거래할수 있다. 가장 거래가 활발한건 10년물과 3년물이다.<br/>선물만기 6개월전쯤 한국거래소 홈페이지 보도자료를 통해 각 선물의 최종거래기준채권을 지정한다.</p>
+<p>기준채권과 선물만기가 같을수가 없으니 이리저리 계산하여 선물가격을 구할수 있다.<br/>
+<a href="https://main.krxverse.co.kr/krx-academy/derivative/easytoknow#lnk">한국거래소 KRX아카데미</a>에 자세히 설명되어있는데, 계산하는 방법은 아래 그림과 같다. (컴퓨터가 다 계산해주는거고 알아봐야 돈버는데 도움도 안되지만 원리는 알고 있어야 할거 아닌가.)</p>
+<img src="/assets/images\2025-03-18-korea_treasury_bond\future_caculation.png" align="center"><br/>
 
