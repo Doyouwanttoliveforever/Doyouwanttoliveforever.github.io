@@ -16,7 +16,7 @@ author_profile: false
 만기는 <span style="color:blue;">2027년 12월 10일</span>이며,<br/>
 2024년도 12번째 발행되는 종목이라는 말이다.</p>
 <footer>
-    <p id="footnote1" style="font-size:50%">
+    <p id="footnote1" style="font-size:70%">
         각주 1: <a href="https://www.law.go.kr/행정규칙/국고채권의발행및국고채전문딜러운영에관한규정/(2025-7,20250227)/제3조">국고채권의 발행 및 국고채전문딜러 운영에 관한 규정 제3조 9항 참조</a>
     </p>
 </footer>
