@@ -53,3 +53,7 @@ author_profile: false
 <p>오늘날 사회에서 있는듯 없는듯 소시민의 삶을 글로 쓰고 그 글을 모빌 형태로 표현했는데 그 모빌이 바람에 무작위적으로 움직이는게 아니라 모터로 규칙적으로 움직인다는 점이 쳇바퀴도는 사람들의 삶을 잘 묘사한거같다.</p>
 <P>참고로 작품설명 위에 분필로 그려둔 작품 모습은 작가가 직접 전시실에 그린것이라고 한다. 전시실에 흰 분필로 쭉 가로선을 그어놨는데 그것도 작가가 직접 그린것이라고 한다.</P>
 
+<p><br/>
+작품에 대한 양정욱 작가의 인터뷰를 들어보자. 작가란 뭘 하는 사람인지 창의적이고 삶에 충실하다는게 뭔지 잘 설명하고 있다.
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwQQgNQ4ap4?si=PIW4ADEHCBUT8xYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
