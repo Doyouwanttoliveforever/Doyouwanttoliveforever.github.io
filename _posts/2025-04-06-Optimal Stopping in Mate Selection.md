@@ -63,3 +63,9 @@ author_profile: false
 , <a href="https://link.springer.com/epdf/10.1007/s42113-020-00085-9?sharing_token=Rmqt5pM4G0XxZb9Y7Mp1Vfe4RwlQNchNByi7wbcMAY4ucv9ON5w8MIAm8ZLwbgw2Ky8kmygra3L_GEoqj8kRQSv_zze5sv6YjmyVSXonBVhZCJQdhGsdVylQNU0dVYLKh2_xNSBQA9XEEtM-1R5GsovxQCif3zLXNmP4d7vFk0Y%3D">Modeling Optimal Stopping in Changing Environments: a CaseStudy in Mate Selection</a>
     </p>    
 </footer>
+
+
+<p><br/>
+작품에 대한 양정욱 작가의 인터뷰를 들어보자. 작가란 뭘 하는 사람인지 창의적이고 삶에 충실하다는게 뭔지 잘 설명하고 있다.
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwQQgNQ4ap4?si=PIW4ADEHCBUT8xYu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
