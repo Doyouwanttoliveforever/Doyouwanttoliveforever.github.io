@@ -17,6 +17,8 @@ author_profile: false
     <img src="/assets\images\2025-06-24-B2 in Operation MIDNIGHT HAMMER\fordow after hit.jpg" align="center">
     <figcaption>폭격후 Fordow 위성사진</figcaption>
 </figure>
+<a href="https://static-cdn.toi-media.com/www/uploads/2025/06/AFP__20250622__63BR6WD__v1__HighRes__IranUsIsraelConflict.jpg">Frodow 고해상도 사진</a>
+<a href="https://www.washingtonpost.com/investigations/2025/06/22/iran-strikes-nuclear-site-damage-visuals/">Natanz 폭격 사진 (Washington Post 기사)</a>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p>USS Georgia 잠수함에서도 토마호크미사일 30발을 Natanz와 Isfahan에 쏘았다고 한다.</p>
