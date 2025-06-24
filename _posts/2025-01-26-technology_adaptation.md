@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "technology adaptation"
-cagegories: 일상
+categories: 일상
 tag: [기술혁신, 옛기술, 신기술, 구태, 혁신, 앞으로가기버튼, 뒤로가기버튼]
 author_profile: false
 ---

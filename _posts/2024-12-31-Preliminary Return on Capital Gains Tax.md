@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Preliminary Return on  Capital Gains Tax"
-cagegories: 일상
+categories: 일상
 tag: [양도소득세, 공개매수]
 author_profile: false
 ---

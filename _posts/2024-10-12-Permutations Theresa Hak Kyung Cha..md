@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Permutations : Theresa Hak Kyung Cha"
-cagegories: 일상
+categories: 일상
 tag: [미술, 차학경]
 author_profile: false
 ---

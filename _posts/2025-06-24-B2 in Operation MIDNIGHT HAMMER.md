@@ -2,7 +2,7 @@
 layout: single
 title:  "B2 in Operation MIDNIGHT HAMMER"
 categories: 일상
-tag: [B2, , MIDNIGHT HAMMER]
+tag: [B2, MIDNIGHT HAMMER]
 author_profile: false
 ---
 <p>2025-06-25 작성</p>

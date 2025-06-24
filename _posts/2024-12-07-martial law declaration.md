@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "martial law proclamation"
-cagegories: 일상
+categories: 일상
 tag: [계엄, 대통령, 반국가세력]
 author_profile: false
 ---

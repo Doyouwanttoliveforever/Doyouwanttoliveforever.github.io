@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "time limited bond arbritrage"
-cagegories: 일상
+categories: 일상
 tag: [소액채권, 키움증권]
 author_profile: false
 published: false

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "korea treasury bond"
-cagegories: 일상
+categories: 일상
 tag: [한국, 국채, 국채선물물]
 author_profile: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "What type of friends do we need as we age?"
-cagegories: 일상
+categories: 일상
 tag: [친구, 나이]
 author_profile: false
 use_math: true

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "share financial infomation with your family"
-cagegories: 일상
+categories: 일상
 tag: [금전관리, 정보공유]
 author_profile: false
 ---

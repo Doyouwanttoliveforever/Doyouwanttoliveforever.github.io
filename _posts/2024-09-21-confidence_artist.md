@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "CON ARTIST"
-cagegories: 일상
+categories: 일상
 tag: [조급함, 사기꾼]
 author_profile: false
 ---

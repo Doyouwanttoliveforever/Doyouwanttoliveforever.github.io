@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Optimal Stopping in Mate Selection"
-cagegories: 일상
+categories: 일상
 tag: [결혼, 남여, 나이]
 author_profile: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yang Jung-uk"
-cagegories: 일상
+categories: 일상
 tag: [양정욱, 작가, 국립현대미술관, 서울]
 author_profile: false
 ---
