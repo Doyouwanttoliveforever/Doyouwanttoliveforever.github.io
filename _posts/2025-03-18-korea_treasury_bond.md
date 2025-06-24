@@ -26,5 +26,5 @@ author_profile: false
 <p><a href="https://open.krx.co.kr/">한국거래소</a>를 통해 국채선물 3년물, 5년물, 10년물, 20년물을 거래할수 있다. 가장 거래가 활발한건 10년물과 3년물이다.<br/>선물만기 6개월전쯤 한국거래소 홈페이지 보도자료를 통해 각 선물의 최종거래기준채권을 지정한다.</p>
 <p>기준채권과 선물만기가 같을수가 없으니 이리저리 계산하여 선물가격을 구할수 있다.<br/>
 <a href="https://main.krxverse.co.kr/krx-academy/derivative/easytoknow#lnk">한국거래소 KRX아카데미</a>에 자세히 설명되어있는데, 계산하는 방법은 아래 그림과 같다. <I>컴퓨터가 다 계산해주는거고 알아봐야 돈버는데 도움도 안되지만 알아서 나쁠건 없다.</I></p>
-<img src="/assets/images\2025-03-18-korea_treasury_bond\future_caculation.png" align="center"><br/>
+<img src="/assets\images\2025-03-18-korea_treasury_bond\future_caculation.png" align="center"><br/>
 
