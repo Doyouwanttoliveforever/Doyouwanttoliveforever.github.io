@@ -11,10 +11,12 @@ author_profile: false
 
 <p>미국 Missouri주의 Whiteman Air Force Base에서 B2폭격기 7대는 각각 GBU-57 MOP를 2발씩 장착하고 날아올라 이란 폭표지점까지 날아갔다.</p>
 <iframe src="https://www.dvidshub.net/video/embed/967783" width="800" height="450" frameborder="0" allowtransparency allowfullscreen></iframe>
-<img src="/assets\images\2025-06-24-B2 in Operation MIDNIGHT HAMMER\target sites.jpg" align="center">
 
 <p>Fordow시설에 6발, Natanz에 7발을 떨어뜨린후 귀환하였다.</p>
-<img src="/assets\images\2025-06-24-B2 in Operation MIDNIGHT HAMMER\fordow after hit.jpg" align="center" alt="폭격후 Fordow 위성사진">
+<figure>
+    <img src="/assets\images\2025-06-24-B2 in Operation MIDNIGHT HAMMER\fordow after hit.jpg" align="center">
+    <figcaption>폭격후 Fordow 위성사진</figcaption>
+</figure>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p>USS Georgia 잠수함에서도 토마호크미사일 30발을 Natanz와 Isfahan에 쏘았다고 한다.</p>
