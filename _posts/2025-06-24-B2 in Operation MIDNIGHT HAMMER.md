@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Optimal Stopping in Mate Selection"
+title:  "B2 in Operation MIDNIGHT HAMMER"
 cagegories: 일상
 tag: [B2, , MIDNIGHT HAMMER]
 author_profile: false
