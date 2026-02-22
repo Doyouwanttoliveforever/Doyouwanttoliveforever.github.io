@@ -13,9 +13,9 @@ author_profile: false
 
 ```mermaid
 flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+    A[중졸 검정고시] --> B[고졸 검정고시] --> C[대학]
+    D[지방 중학교] --> E[지방 고등학교] --> C
+    F[수도권 일반 중학교] --> G[수도권 일반 고등학교] --> C
+    F --> H[특성화고] --> C
+    F --> I[마이스터고] --> J[취업]  --> C
 ```
