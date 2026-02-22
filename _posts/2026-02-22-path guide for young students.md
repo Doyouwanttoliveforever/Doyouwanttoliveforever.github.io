@@ -58,8 +58,6 @@ flowchart TD
     subgraph MiddleSchool [" "]
         direction LR
         A[중졸 검정고시]
-        D[지방 중학교]
-        F[수도권 일반 중학교]
     end
 
     %% 고등학교 레벨
@@ -79,9 +77,28 @@ flowchart TD
     A --> H
     A --> I
 
-    D --> G
-
     %% 화살표 색 변경
     linkStyle 0,1,2,3,4 stroke:black,stroke-width:3px
-    linkStyle 5 stroke:green,stroke-width:3px
+```
+
+```mermaid
+flowchart TD
+
+    %% 중학교 레벨
+    subgraph MiddleSchool [" "]
+        direction LR
+        F[수도권 일반 중학교]
+    end
+
+    %% 고등학교 레벨
+    subgraph HighSchool [" "]
+        direction LR
+        B[고졸 검정고시]
+    end
+
+    %% 연결 관계
+    F --> B
+
+    %% 화살표 색 변경
+    linkStyle 0 stroke:black,stroke-width:3px
 ```
