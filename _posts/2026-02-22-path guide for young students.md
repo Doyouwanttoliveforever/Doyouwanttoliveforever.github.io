@@ -48,5 +48,5 @@ flowchart TD
     linkStyle 2,3 stroke:blue,stroke-width:3px
     linkStyle 4,5 stroke:black,stroke-width:3px
     linkStyle 6,7 stroke:green,stroke-width:3px
-    linkStyle 8,9,10 stroke:yellow,stroke-width:3px
+    linkStyle 8,9,10 stroke:#2F4F4F,stroke-width:3px
 ```
