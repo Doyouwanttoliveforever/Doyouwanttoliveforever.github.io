@@ -116,5 +116,5 @@ flowchart TD
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 <p></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
 <p><i>위 순서도 작성은 <A href="https://mermaid.js.org/">Mermaid</A>를 이용하였다.</i></p>
