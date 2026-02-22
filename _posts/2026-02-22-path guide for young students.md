@@ -83,9 +83,6 @@ flowchart TD
     linkStyle 0 stroke:red,stroke-width:3px
     linkStyle 1,2,3,4 stroke:black,stroke-width:3px
 ```
-<p></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
 
 ```mermaid
 flowchart TD
