@@ -16,7 +16,7 @@ author_profile: false
 flowchart TD
 
     %% 중학교 레벨
-    subgraph MiddleSchool [" "]
+    subgraph MiddleSchool [""]
         direction LR
         A[중졸 검정고시]
         D[지방 중학교]
@@ -24,7 +24,7 @@ flowchart TD
     end
 
     %% 고등학교 레벨
-    subgraph HighSchool [" "]
+    subgraph HighSchool [""]
         direction LR
         B[고졸 검정고시]
         E[지방 고등학교]
@@ -51,8 +51,7 @@ flowchart TD
     linkStyle 6,7 stroke:green,stroke-width:3px
     linkStyle 8,9,10 stroke:#A5FFC9,stroke-width:3px
 ```
-<p></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
 
 ```mermaid
 flowchart TD
