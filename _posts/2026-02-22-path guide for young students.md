@@ -42,10 +42,6 @@ flowchart TD
     F --> G --> C
     F --> H --> C
     F --> I --> J --> C
-    A --> G
-    A --> H
-    A --> I
-    F --> B
 
     %% 화살표 색 변경
     linkStyle 0,1 stroke:red,stroke-width:3px
@@ -53,5 +49,39 @@ flowchart TD
     linkStyle 4,5 stroke:black,stroke-width:3px
     linkStyle 6,7 stroke:green,stroke-width:3px
     linkStyle 8,9,10 stroke:#A5FFC9,stroke-width:3px
-    linkStyle 11,12,13,14 stroke:black,stroke-width:3px
+```
+
+```mermaid
+flowchart TD
+
+    %% 중학교 레벨
+    subgraph MiddleSchool [" "]
+        direction LR
+        A[중졸 검정고시]
+        D[지방 중학교]
+        F[수도권 일반 중학교]
+    end
+
+    %% 고등학교 레벨
+    subgraph HighSchool [" "]
+        direction LR
+        B[고졸 검정고시]
+        E[지방 고등학교]
+        G[수도권 일반 고등학교]
+        H[특성화고]
+        I[마이스터고]
+    end
+
+    %% 연결 관계
+    A --> B
+    A --> E
+    A --> G
+    A --> H
+    A --> I
+
+    D --> G
+
+    %% 화살표 색 변경
+    linkStyle 0,1,2,3,4 stroke:black,stroke-width:3px
+    linkStyle 5 stroke:green,stroke-width:3px
 ```
