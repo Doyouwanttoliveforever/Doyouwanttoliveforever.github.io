@@ -107,4 +107,14 @@ flowchart TD
 
 <p></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p>검정고시 제도를 이용하면 학생 실력에 따라 중학교 3년과정, 고등학교 3년과정을 단축할수 있는 장점이 있으며, 검정고시 성적이 만점에 가깝다면 정시 뿐 아니라 수시를 통해서 대학진학도 가능하다.</p>
+<p>중학교만 검정고시 제도를 이용하고 고등학교는 정규과정으로 진학하게 되면 수시전형시 아무런 불이익이 없어 고려해볼만 하다.</p>
+
+<p>서울, 경기도가 아닌 지방에서 중학교, 고등학교를 졸업할경우 지방대학 및 지역균형인재 육성에 관한 법률에 따라 대학진학 및 취업에 혜택을 받을수 있다.</p>
+<p>특성화고나 마이스터고 진학시 좋은 내신성적을 얻는다면 9급공무원이나 공기업 취업이 유리하니 명문대진학이 목표가 아니라면 충분히 고려할만 하다.</p>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+<p></p>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 <p><i>위 순서도 작성은 <A href="https://mermaid.js.org/">Mermaid</A>를 이용하였다.</i></p>
