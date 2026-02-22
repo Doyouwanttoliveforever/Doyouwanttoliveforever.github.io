@@ -46,6 +46,6 @@ flowchart TD
     %% 화살표 색 변경
     linkStyle 0,1 stroke:red,stroke-width:3px
     linkStyle 2,3 stroke:blue,stroke-width:3px
-    linkStyle 8 stroke:green,stroke-width:3px
-    linkStyle 10,11 stroke:#ff6600,stroke-width:3px
+    linkStyle 7 stroke:green,stroke-width:3px
+    linkStyle 9,10 stroke:#ff6600,stroke-width:3px
 ```
