@@ -105,7 +105,8 @@ flowchart TD
     %% 화살표 색 변경
     linkStyle 0 stroke:black,stroke-width:3px
 ```
-
+```html
 <p></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <p><i>위 순서도 작성은 <A href="https://mermaid.js.org/">Mermaid</A>를 이용하였다.</i></p>
+```
