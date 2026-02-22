@@ -11,6 +11,7 @@ author_profile: false
 <p>2026-02-22 작성</p>
 <p><b>mermaid을 이용해 순서도 그리는 방법을 연습한 결과물</b></p>
 
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 ```mermaid
 flowchart TD
 
@@ -50,6 +51,8 @@ flowchart TD
     linkStyle 6,7 stroke:green,stroke-width:3px
     linkStyle 8,9,10 stroke:#A5FFC9,stroke-width:3px
 ```
+<p></p>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 ```mermaid
 flowchart TD
@@ -78,8 +81,12 @@ flowchart TD
     A --> I
 
     %% 화살표 색 변경
-    linkStyle 0,1,2,3,4 stroke:black,stroke-width:3px
+    linkStyle 0 stroke:red,stroke-width:3px
+    linkStyle 1,2,3,4 stroke:black,stroke-width:3px
 ```
+<p></p>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
 
 ```mermaid
 flowchart TD
@@ -102,3 +109,7 @@ flowchart TD
     %% 화살표 색 변경
     linkStyle 0 stroke:black,stroke-width:3px
 ```
+
+<p></p>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<p><i>위 순서도 작성은 <A href="https://mermaid.js.org/">Mermaid</A>를 이용하였다.</i></p>
