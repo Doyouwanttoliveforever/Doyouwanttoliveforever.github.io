@@ -11,7 +11,6 @@ author_profile: false
 <p>2026-02-22 작성</p>
 <p><b>mermaid을 이용해 순서도 그리는 방법을 연습한 결과물</b></p>
 
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
 ```mermaid
 flowchart TD
 
