@@ -13,9 +13,33 @@ author_profile: false
 
 ```mermaid
 flowchart TD
-    A[중졸 검정고시] --> B[고졸 검정고시] --> C[대학]
-    D[지방 중학교] --> E[지방 고등학교] --> C
-    F[수도권 일반 중학교] --> G[수도권 일반 고등학교] --> C
-    F --> H[특성화고] --> C
-    F --> I[마이스터고] --> J[취업]  --> C
+
+    %% 중학교 레벨
+    subgraph MiddleSchool [중학교 단계]
+        direction LR
+        A[중졸 검정고시]
+        D[지방 중학교]
+        F[수도권 일반 중학교]
+    end
+
+    %% 고등학교 레벨
+    subgraph HighSchool [고등학교 단계]
+        direction LR
+        B[고졸 검정고시]
+        E[지방 고등학교]
+        G[수도권 일반 고등학교]
+        H[특성화고]
+        I[마이스터고]
+    end
+
+    %% 이후 단계
+    C[대학]
+    J[취업]
+
+    %% 연결 관계
+    A --> B --> C
+    D --> E --> C
+    F --> G --> C
+    F --> H --> C
+    F --> I --> J --> C
 ```
