@@ -42,11 +42,16 @@ flowchart TD
     F --> G --> C
     F --> H --> C
     F --> I --> J --> C
+    A --> G
+    A --> H
+    A --> I
+    F --> B
 
     %% 화살표 색 변경
     linkStyle 0,1 stroke:red,stroke-width:3px
     linkStyle 2,3 stroke:blue,stroke-width:3px
     linkStyle 4,5 stroke:black,stroke-width:3px
     linkStyle 6,7 stroke:green,stroke-width:3px
-    linkStyle 8,9,10 stroke:#2F4F4F,stroke-width:3px
+    linkStyle 8,9,10 stroke:#A5FFC9,stroke-width:3px
+    linkStyle 11,12,13,14 stroke:black,stroke-width:3px
 ```
