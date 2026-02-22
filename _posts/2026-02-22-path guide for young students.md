@@ -15,7 +15,7 @@ author_profile: false
 flowchart TD
 
     %% 중학교 레벨
-    subgraph MiddleSchool [중학교 단계]
+    subgraph MiddleSchool []
         direction LR
         A[중졸 검정고시]
         D[지방 중학교]
@@ -23,7 +23,7 @@ flowchart TD
     end
 
     %% 고등학교 레벨
-    subgraph HighSchool [고등학교 단계]
+    subgraph HighSchool []
         direction LR
         B[고졸 검정고시]
         E[지방 고등학교]
@@ -42,4 +42,10 @@ flowchart TD
     F --> G --> C
     F --> H --> C
     F --> I --> J --> C
+
+    %% 화살표 색 변경
+    linkStyle 0,1 stroke:red,stroke-width:3px
+    linkStyle 2,3 stroke:blue,stroke-width:3px
+    linkStyle 8 stroke:green,stroke-width:3px
+    linkStyle 10,11 stroke:#ff6600,stroke-width:3px
 ```
