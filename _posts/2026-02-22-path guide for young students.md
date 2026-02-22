@@ -49,3 +49,32 @@ flowchart TD
     linkStyle 7 stroke:green,stroke-width:3px
     linkStyle 9,10 stroke:#ff6600,stroke-width:3px
 ```
+
+```mermaid
+flowchart TD
+
+    %% 노드 정의
+    A[중졸 검정고시]
+    D[지방 중학교]
+    F[수도권 일반 중학교]
+
+    B[고졸 검정고시]
+    E[지방 고등학교]
+    G[수도권 일반 고등학교]
+    H[특성화고]
+    I[마이스터고]
+
+    C[대학]
+    J[취업]
+
+    %% 같은 높이 정렬
+    {rank=same; A; D; F}
+    {rank=same; B; E; G; H; I}
+
+    %% 연결 관계
+    A --> B --> C
+    D --> E --> C
+    F --> G --> C
+    F --> H --> C
+    F --> I --> J --> C
+```
