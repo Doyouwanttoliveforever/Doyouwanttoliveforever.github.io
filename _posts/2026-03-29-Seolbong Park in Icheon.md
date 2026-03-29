@@ -2,7 +2,7 @@
 layout: single
 title: "path guide for young students"
 categories: 일상
-tag: [경기도, 이천, 설봉, 설봉공원, 도자기, 박물관]
+tag: [경기도, 이천, 설봉, 설봉공원, 도자기, 박물관, 영월암]
 author_profile: false
 ---
 <head>
