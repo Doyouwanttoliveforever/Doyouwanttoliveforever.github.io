@@ -324,3 +324,4 @@ defaults:
       share: true
       related: true
       published: true
+      sidebar_main: true
