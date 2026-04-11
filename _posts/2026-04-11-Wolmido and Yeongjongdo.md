@@ -65,7 +65,7 @@ author_profile: false
 <img src="\assets\images\2026-04-11-Wolmido and Yeongjongdo\20260411_152717.jpg" align="center"><br/>
 <img src="\assets\images\2026-04-11-Wolmido and Yeongjongdo\20260411_152740.jpg" align="center"><br/>
 <p>영종도를 볼때마다 생각하는거지만, 인천국제공항 말곤 죄다 아파트 뿐이고, 기업이 있다지만 초라한 실정이다.<br>
-1990년대부터 본격적인 매립이 진행되었지만, 정부가 공항 외에 기업을 유치할 열의가 있었는지 의문이 든다. 인천공항만 해도 막대한 인력이 근무하고 있으니 기업 유치와 상관없이 많은 아파트가 있어야 하겠지만 지금 생각해보면 기업 유치 노력은 결과적으론 아파트를 팔기 위한 미끼에 불과했던 셈이 되어버렸다.</p>
+1990년대부터 본격적인 매립이 진행되었지만, 정부가 공항 외에 지은건 아파트가 대부분이다. 인천공항만 해도 막대한 인력이 근무하고 있으니 기업 유치와 상관없이 많은 아파트가 있어야 하겠지만 기업을 더 유치했더라면 어땠을가 싶다.</p>
 <img src="\assets\images\2026-04-11-Wolmido and Yeongjongdo\20260411_153305.jpg" align="center"><br/>
 <img src="\assets\images\2026-04-11-Wolmido and Yeongjongdo\20260411_153319.jpg" align="center"><br/>
 <img src="\assets\images\2026-04-11-Wolmido and Yeongjongdo\20260411_154009.jpg" align="center"><br/>
