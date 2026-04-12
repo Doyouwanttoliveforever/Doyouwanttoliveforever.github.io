@@ -34,7 +34,7 @@ author_profile: false
 <img src="\assets\images\2026-04-12-yeoju institute of technology\20260412_154135.jpg" align="center"><br/>
 <img src="\assets\images\2026-04-12-yeoju institute of technology\20260412_154520.jpg" align="center"><br/>
 <img src="\assets\images\2026-04-12-yeoju institute of technology\20260412_154540.jpg" align="center"><br/>
-<p>학교 한가운데 매우 넓은 잔디가 깔린 대운동장이 있다.</p>
+<p>학교 한가운데 매우 넓은 천연잔디 대운동장이 있다.</p>
 <img src="\assets\images\2026-04-12-yeoju institute of technology\20260412_155631.jpg" align="center"><br/>
 <img src="\assets\images\2026-04-12-yeoju institute of technology\20260412_155841.jpg" align="center"><br/>
 <p>현재 SM그룹에서 재단을 인수하여 운영중이다.</p>
