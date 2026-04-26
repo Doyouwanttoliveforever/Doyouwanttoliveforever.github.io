@@ -2,7 +2,7 @@
 layout: single
 title: "The Art of Public Opinion"
 categories: 일상
-tag: [Public Opinion, , deceit]
+tag: [Public Opinion, deceit]
 author_profile: false
 ---
 <head>
