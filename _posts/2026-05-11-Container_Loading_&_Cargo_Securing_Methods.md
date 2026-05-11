@@ -15,10 +15,10 @@ author_profile: false
 <p>이런 위험한 방법보다 아래 그림처럼 '램프'를 쓰는게 좋다.</p>
 
 <img src="\assets\images\2026-05-11-Container_Loading_&_Cargo_Securing_Methods\yard-ramp-features.jpg" align="center">
-<a href="https://copperloy.com/yard-ramps/">Yard Ramps</A> </br>
+<a href="https://copperloy.com/yard-ramps/">Yard Ramps</A> <br/>
 
 
-<p><u>안전을 위해 알어두면 좋은 내용</u></p></br>
+<p><u>안전을 위해 알어두면 좋은 내용</u></p><br/>
 <p>끈고정법 및 탄력바, 자동바 사용법</p>
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5pCmvMtiYI?si=8elClH-JqXYO9MUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
