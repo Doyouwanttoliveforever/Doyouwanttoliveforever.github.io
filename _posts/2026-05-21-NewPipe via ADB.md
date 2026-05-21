@@ -48,7 +48,7 @@ Optional (**recommended**): Switch off USB debugging in Developer options until 
 
 
 <p>샤오미 스마트폰 사용자라면 <br/>
-- 샤오미 <a href="https://account.xiaomi.com/">회원가입</a>이 되어있어야 한다. (공기기라면 SIM칩을 넣어두어야 USB설치모드를 켤수 있음)
-- 개발자옵션 (설정> 일반> 개발자옵션> USB디버깅)
+- 샤오미 <a href="https://account.xiaomi.com/">회원가입</a>이 되어있어야 한다. (공기기라면 SIM칩을 넣어두어야 USB설치모드를 켤수 있음) <br/>
+- 개발자옵션 (설정> 일반> 개발자옵션> USB디버깅)<br/>
 - "USB로 설치" 켬
 </p>
