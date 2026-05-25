@@ -31,3 +31,9 @@ author_profile: false
 <p></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-TO8jhszjA?si=fJyUxf0vadM7DARR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>Fentanyl, 담배(니코틴), 술(알코올), 스마트폰은 모두 “중독”이라는 공통점을 갖고 있지만, 작용 방식과 위험성은 서로 다르다. 펜타닐은 뇌의 보상 회로를 강하게 교란해 극심한 의존성을 만들며, 개인의 의지만으로 끊기 매우 어려운 경우가 많다. 담배와 술 역시 화학물질이 몸에 들어와 뇌를 직접 자극하기 때문에 강한 갈망과 금단 증상을 유발한다. 게다가 일상에서 쉽게 접할 수 있어 유혹에 반복적으로 노출된다는 점도 금연·금주를 더욱 어렵게 만든다.</p>
+
+<p>스마트폰 중독은 약물중독과 달리 행동중독에 가까워 신체적 금단은 상대적으로 약하지만, 항상 손에 쥐고 생활하는 환경 자체가 의존을 강화한다는 특징이 있다. <mark>특히 SNS를 과도하게 사용하는 사람들과 계속 어울리다 보면 자신도 자연스럽게 스마트폰을 손에서 놓기 어려워질 수 있다. 마찬가지로 술·담배·마약을 쉽게 접할 수 있는 클럽이나 술집 같은 환경, 그리고 그런 문화를 즐기고 권하는 사람들과 가까이 지내는 것 역시 중독의 위험을 높일 수 있다.</mark></p>
+
+<p>결국 중독은 단순히 “의지가 약해서” 생기는 문제가 아니라, 뇌의 보상 체계와 반복적인 환경 노출이 함께 작용하는 문제에 가깝다. 그래서 중독을 극복하려는 노력만큼이나, 애초에 중독성이 강한 대상과 그것을 쉽게 접하게 만드는 환경, 인간관계로부터 스스로 거리를 두는 것이 중요하다. 어떤 습관과 환경 속에 자신을 두느냐가 결국 삶의 방향에도 큰 영향을 미친다.</p>
