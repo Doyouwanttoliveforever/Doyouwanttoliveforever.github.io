@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "기준금리와 10년물국채 이자율"
+title: "미국이 추구하는 경제 패러다임의 변화"
 categories: 일상
 tag: [환율, 관세, FDI]
 author_profile: false
