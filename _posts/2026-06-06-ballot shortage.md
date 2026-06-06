@@ -52,6 +52,7 @@ author_profile: false
 <br/>
 
 <img src="\assets\images\2026-06-06-ballot shortage\20260605_224234.jpg" align="center"><br/>
+<p style="text-align:center;"><img src="\assets\images\2026-06-06-ballot shortage\20260605_224234.jpg"></p>
 
 <img src="\assets\images\2026-06-06-ballot shortage\20260605_224313.jpg" align="center"><br/>
 
