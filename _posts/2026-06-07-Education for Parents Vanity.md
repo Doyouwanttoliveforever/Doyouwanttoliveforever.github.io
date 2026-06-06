@@ -94,3 +94,17 @@ author_profile: false
 자동차는 사람을 편하게 이동시키기 위한 도구여야 한다. 그런데 그것이 타인에게 과시하기 위한 수단이 된다면, 결국 남는 것은 '카푸어'라는 꼬리표뿐이다.
 </strong>
 </p>
+
+<hr>
+<p>윗 글 내용을 포함한 글이 있어 덧붙여 본다.</p>
+<p><b><A href="https://www.psychologytoday.com/us/blog/tech-support/201705/the-trophy-child">The Trophy Child</A></b></p>
+
+<div style="border:1px solid #ccc; padding:20px; border-radius:8px; background-color:#f9f9f9; line-height:1.8;">
+    <p>Some mothers who see their children as extensions of themselves will favor one child as a "trophy child."</p>
+    <p>Sometimes the "trophy child" dynamic expands to include making the other child or children feel shamed.</p>
+    <p>Non-trophy children may find it easier to escape the familial dysfunction later in life than their trophy siblings, due to heightened awareness.</p>
+
+    <p>일부 자녀를 자신의 확장판으로 여기는 어머니들은 특정 자녀 한 명을 <span class="highlight">'트로피 자녀'</span>로 삼아 편애하곤 합니다.</p>
+    <p>때로는 이러한 '트로피 자녀' 중심의 생활이 다른 자녀에게는 수치심을 야기하기도 합니다.</p>
+    <p>트로피가 아닌 자녀들은 상황을 더 명확하게 인지하기 때문에 성인이 된 후 트로피 자녀인 형제자매보다 이러한 역기능적 가족 관계에서 더 쉽게 벗어나기도 합니다.</p>
+</div>
