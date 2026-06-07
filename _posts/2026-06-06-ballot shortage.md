@@ -37,19 +37,6 @@ author_profile: false
 <img src="\assets\images\2026-06-06-ballot shortage\올림픽공원 티켓링크라이브아레나 위치.jpg" align="center"><br/>
 
 <p>2026년 6월 5일</p>
-<figure>
-    <video width="640" height="360" controls>
-        <source src="\assets\videos\2026-06-06-ballot shortage\20260605_224621.mp4" type="video/mp4">
-    </video> 
-</figure>
-<br/>
-
-<figure>
-    <video width="640" height="360" controls>
-        <source src="\assets\videos\2026-06-06-ballot shortage\20260605_224431.mp4" type="video/mp4">
-    </video> 
-</figure>
-<br/>
 
 <p style="text-align:center;"><img src="\assets\images\2026-06-06-ballot shortage\20260605_224234.jpg"></p>
 
