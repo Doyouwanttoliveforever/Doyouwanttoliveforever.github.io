@@ -52,3 +52,10 @@ Optional (**recommended**): Switch off USB debugging in Developer options until 
 - 개발자옵션 (설정> 일반> 개발자옵션> USB디버깅)<br/>
 - "USB로 설치" 켬
 </p>
+
+<p>삼성 갤럭시폰 사용자라면 <br/>
+- 설정 > 보안 및 개인정보 보호 > 보안 위험 자동 차단 "off"
+- 개발자옵션 > USB 디버깅 "on"
+<br/>
+- 설치후, 설정 > 보안 및 개인정보 보호 > 보안 위험 자동 차단 "on"
+</p>
